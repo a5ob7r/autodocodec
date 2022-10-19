@@ -1,5 +1,5 @@
 {
-  description = "validity";
+  description = "autodocodec";
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs?ref=nixos-22.05";
     flake-utils.url = "github:numtide/flake-utils";
